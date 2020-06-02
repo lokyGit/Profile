@@ -16,7 +16,7 @@ Creating a project site.
 With project sites, you get to use templates downloaded online or pick a theme from the settings on the repository.
 create a new repository named username.github.io. Say if you name is carolyne, your repository name will be carolyne.github.io. This will be your homepage. PS: You can add a description if you like.
 
-Check out the following websites to download free portfolio website templates from colorlib, Start Bootstrap, Themezy, BootStrap zero or Bootstrap made. You can as well use this link (https://github.com/evanca/quick-portfolio) to create one by forking the repo.
+Check out the following websites to download free portfolio website templates from colorlib, Start Bootstrap, Themezy, BootStrap zero or Bootstrap made. You can as well use this link (https://github.com/lokyGit/Profile.git) to create one by forking the repo.
 Go to repository Settings and scroll down to the “GitHub Pages” section. Select “master branch” under the “Source”.
 
 Add a theme to the portfolio to changeits look and feel
@@ -34,7 +34,7 @@ You can work with the repo already created or create a new one.
 Clone the repository.
 create a folder where you want to store the project on your desktop and clone the new repository
 
-~ $ git clone https://github.com/carolmusyoka18/carolmusyoka18.github.io
+~ $ git clone https://github.com/lokyGit/Profile.git
 
 add index.html file
 You can now create an index.html file in the project folder
